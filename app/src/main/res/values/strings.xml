@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeAreMatchPlay</string>
+
+    <!-- Hints -->
+    <string name="hint_username">Email / username</string>
+    <string name="hint_password">Password</string>
+
+    <!-- Login screen -->
+    <string name="btn_sign_in_text">Sign In</string>
+
+    <!-- Matches screen -->
+    <string name="txt_match_id">Id: %d</string>
+    <string name="txt_winning_score">Winning score: %d</string>
+    <string name="txt_played_at">Played at %s</string>
+</resources>
